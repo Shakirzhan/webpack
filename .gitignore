@@ -1,0 +1,11 @@
+node_modules
+
+# IDE
+.idea
+.vscode
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build
+
+# Ignore build file
+public
